@@ -1,4 +1,4 @@
-//this whole thing was made by daniel
+//this whole thing was made by xander
 
 let text = document.getElementById("scorecounter")
 let scoreamtctr = document.getElementById("scoreamountcounter")
